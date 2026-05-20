@@ -1,0 +1,3 @@
+[submodule "test_u01_gateway"]
+	path = test_u01_gateway
+	url = https://github.com/blep/testu01_gateway.git
